@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.antlr.antlr4-runtime">
+    <CLASSES>
+      <root url="jar:///home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/org/antlr/antlr4-runtime/4.13.2/antlr4-runtime-4.13.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/org/antlr/antlr4-runtime/4.13.2/antlr4-runtime-4.13.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/org/antlr/antlr4-runtime/4.13.2/antlr4-runtime-4.13.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

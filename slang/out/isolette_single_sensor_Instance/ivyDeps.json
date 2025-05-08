@@ -1,0 +1,9 @@
+{
+    "value": [
+        "org.scala-lang:scala-reflect:2.13.16",
+        "org.sireum.kekinian::library:ff179091ab",
+        "org.sireum.kekinian::hamr-vision:ff179091ab"
+    ],
+    "valueHash": -1534600394,
+    "inputsHash": -856843677
+}

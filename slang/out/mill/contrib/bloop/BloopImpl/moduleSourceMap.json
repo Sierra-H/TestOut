@@ -1,0 +1,28 @@
+{
+    "value": {
+        "isolette_single_sensor_Instance": [
+            "/home/sashamane/Development/test-out/slang/src/main/art",
+            "/home/sashamane/Development/test-out/slang/src/main/architecture",
+            "/home/sashamane/Development/test-out/slang/src/main/bridge",
+            "/home/sashamane/Development/test-out/slang/src/main/component",
+            "/home/sashamane/Development/test-out/slang/src/main/data",
+            "/home/sashamane/Development/test-out/slang/src/main/nix",
+            "/home/sashamane/Development/test-out/slang/src/main/seL4Nix",
+            "/home/sashamane/Development/test-out/slang/src/main/util"
+        ],
+        "isolette_single_sensor_Instance.tests": [
+            "/home/sashamane/Development/test-out/slang/src/test/bridge",
+            "/home/sashamane/Development/test-out/slang/src/test/system",
+            "/home/sashamane/Development/test-out/slang/src/test/util"
+        ],
+        "slang": [
+            "/home/sashamane/Development/test-out/slang/.BIN"
+        ],
+        "mill-build-": [
+            "/home/sashamane/Development/test-out/slang/build.mill",
+            "/home/sashamane/Development/test-out/slang/out/generateScriptSources.dest"
+        ]
+    },
+    "valueHash": 1516411479,
+    "inputsHash": -1615770842
+}

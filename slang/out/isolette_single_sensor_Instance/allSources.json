@@ -1,0 +1,14 @@
+{
+    "value": [
+        "ref:v0:9c115792:/home/sashamane/Development/test-out/slang/src/main/art",
+        "ref:v0:d6735df1:/home/sashamane/Development/test-out/slang/src/main/architecture",
+        "ref:v0:961ae37e:/home/sashamane/Development/test-out/slang/src/main/bridge",
+        "ref:v0:7721944b:/home/sashamane/Development/test-out/slang/src/main/component",
+        "ref:v0:54d14a42:/home/sashamane/Development/test-out/slang/src/main/data",
+        "ref:v0:c984eca8:/home/sashamane/Development/test-out/slang/src/main/nix",
+        "ref:v0:c984eca8:/home/sashamane/Development/test-out/slang/src/main/seL4Nix",
+        "ref:v0:cb49f6ea:/home/sashamane/Development/test-out/slang/src/main/util"
+    ],
+    "valueHash": -746979145,
+    "inputsHash": 45470786
+}

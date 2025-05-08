@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.kohsuke.github-api">
+    <CLASSES>
+      <root url="jar:///home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/org/kohsuke/github-api/1.327/github-api-1.327.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/org/kohsuke/github-api/1.327/github-api-1.327-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/org/kohsuke/github-api/1.327/github-api-1.327-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

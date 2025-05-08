@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Slang Script Runner" type="Application" factoryName="Application" singleton="false">
+    <envs>
+      <env name="JAVA_HOME" value="/home/sashamane/Development/sireum/kekinian/bin/linux/java" />
+    </envs>
+    <option name="MAIN_CLASS_NAME" value="org.sireum.Sireum" />
+    <module name="slang" />
+    <option name="PROGRAM_PARAMETERS" value="slang run $FilePath$" />
+    <option name="VM_PARAMETERS" value="--enable-native-access=ALL-UNNAMED" />
+    <method v="2" />
+  </configuration>
+</component>

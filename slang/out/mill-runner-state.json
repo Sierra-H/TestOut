@@ -1,0 +1,29 @@
+{
+    "workerCache": {},
+    "evalWatched": [
+        "ref:v0:c984eca8:/home/sashamane/Development/test-out/slang/compile-resources",
+        "qref:v0:93edcdfc:/home/sashamane/Development/test-out/slang/out/mill-launcher/0.12.9.jar",
+        "ref:v0:c984eca8:/home/sashamane/Development/test-out/slang/src/compile-resources",
+        "ref:v0:d2b7e0f6:/home/sashamane/Development/test-out/slang/src/test/bridge",
+        "ref:v0:c984eca8:/home/sashamane/Development/test-out/slang/src/test/system",
+        "ref:v0:121d1fa4:/home/sashamane/Development/test-out/slang/src/test/util",
+        "ref:v0:9c115792:/home/sashamane/Development/test-out/slang/src/main/art",
+        "ref:v0:d6735df1:/home/sashamane/Development/test-out/slang/src/main/architecture",
+        "ref:v0:961ae37e:/home/sashamane/Development/test-out/slang/src/main/bridge",
+        "ref:v0:7721944b:/home/sashamane/Development/test-out/slang/src/main/component",
+        "ref:v0:54d14a42:/home/sashamane/Development/test-out/slang/src/main/data",
+        "ref:v0:c984eca8:/home/sashamane/Development/test-out/slang/src/main/nix",
+        "ref:v0:c984eca8:/home/sashamane/Development/test-out/slang/src/main/seL4Nix",
+        "ref:v0:cb49f6ea:/home/sashamane/Development/test-out/slang/src/main/util",
+        "ref:v0:c984eca8:/home/sashamane/Development/test-out/slang/mill-build/compile-resources",
+        "ref:v0:c984eca8:/home/sashamane/Development/test-out/slang/.BIN",
+        "ref:v0:c984eca8:/home/sashamane/Development/test-out/slang/mill-build/src",
+        "ref:v0:af86bc04:/home/sashamane/Development/test-out/slang/build.mill",
+        "ref:v0:c984eca8:/home/sashamane/Development/test-out/slang/src/compile-resources",
+        "ref:v0:c984eca8:/home/sashamane/Development/test-out/slang/mill-build/resources"
+    ],
+    "moduleWatched": [],
+    "classLoaderIdentity": [],
+    "runClasspath": [],
+    "runClasspathHash": 473519988
+}

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.scalameta.mdoc-parser_2.13">
+    <CLASSES>
+      <root url="jar:///home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/org/scalameta/mdoc-parser_2.13/2.6.4/mdoc-parser_2.13-2.6.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/org/scalameta/mdoc-parser_2.13/2.6.4/mdoc-parser_2.13-2.6.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/org/scalameta/mdoc-parser_2.13/2.6.4/mdoc-parser_2.13-2.6.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

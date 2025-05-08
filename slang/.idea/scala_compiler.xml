@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="postfixOps" value="true" />
+    <option name="deprecationWarnings" value="true" />
+    <option name="uncheckedWarnings" value="true" />
+    <option name="featureWarnings" value="true" />
+    <parameters>
+      <parameter value="-release" />
+      <parameter value="17" />
+      <parameter value="-deprecation" />
+      <parameter value="-Yrangepos" />
+      <parameter value="-Ydelambdafy:method" />
+      <parameter value="-feature" />
+      <parameter value="-unchecked" />
+      <parameter value="-Werror" />
+      <parameter value="-language:postfixOps" />
+    </parameters>
+    <plugins>
+      <plugin path="/home/sashamane/Development/sireum/kekinian/lib/scalac-plugin-4.20250309.44edf16.jar" />
+    </plugins>
+  </component>
+</project>

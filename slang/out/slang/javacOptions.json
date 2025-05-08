@@ -1,0 +1,16 @@
+{
+    "value": [
+        "-source",
+        "17",
+        "-target",
+        "17",
+        "-encoding",
+        "utf8",
+        "-XDignore.symbol.file",
+        "-Xlint:-options",
+        "-Xlint:deprecation",
+        "-proc:none"
+    ],
+    "valueHash": -22826257,
+    "inputsHash": 1561973228
+}

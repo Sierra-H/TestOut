@@ -1,0 +1,45 @@
+{
+  "type" : "Project",
+  "modules" : {
+    "type" : "HashSMap",
+    "size" : 1,
+    "entries" : [
+      [
+        "isolette_single_sensor_Instance",
+        {
+          "type" : "Module",
+          "id" : "isolette_single_sensor_Instance",
+          "basePath" : "\/home\/sashamane\/Development\/test-out\/slang\/src",
+          "subPathOpt" : {
+            "type" : "None"
+          },
+          "deps" : [],
+          "targets" : [
+            {
+              "type" : "Target",
+              "value" : "Jvm"
+            }
+          ],
+          "ivyDeps" : ["org.sireum.kekinian::library:", "org.sireum.kekinian::hamr-vision:"],
+          "sources" : ["main\/art", "main\/architecture", "main\/bridge", "main\/component", "main\/data", "main\/nix", "main\/seL4Nix", "main\/util"],
+          "resources" : [],
+          "testSources" : ["test\/bridge", "test\/system", "test\/util"],
+          "testResources" : [],
+          "publishInfoOpt" : {
+            "type" : "None"
+          }
+        }
+      ]
+    ]
+  },
+  "poset" : {
+    "type" : "Poset",
+    "nodes" : [],
+    "parents" : {
+      "type" : "HashSMap",
+      "size" : 0,
+      "entries" : [  ]
+    }
+  },
+  "mavenRepoUrls" : []
+}

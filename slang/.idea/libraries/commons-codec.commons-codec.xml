@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="commons-codec.commons-codec">
+    <CLASSES>
+      <root url="jar:///home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/commons-codec/commons-codec/1.17.1/commons-codec-1.17.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/commons-codec/commons-codec/1.17.1/commons-codec-1.17.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/commons-codec/commons-codec/1.17.1/commons-codec-1.17.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

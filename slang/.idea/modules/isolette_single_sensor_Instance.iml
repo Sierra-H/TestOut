@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../src">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/art" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/architecture" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/bridge" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/component" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/data" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/util" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/bridge" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/util" isTestSource="true" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="org.sireum.kekinian.library_2.13" level="project" />
+    <orderEntry type="library" name="org.sireum.kekinian.hamr-vision_2.13" level="project" />
+    <orderEntry type="library" name="org.sireum.kekinian.library-shared_2.13" level="project" />
+    <orderEntry type="library" name="com.zaxxer.nuprocess" level="project" />
+    <orderEntry type="library" name="com.lihaoyi.os-lib_2.13" level="project" />
+    <orderEntry type="library" name="org.kohsuke.github-api" level="project" />
+    <orderEntry type="library" name="org.ow2.asm.asm" level="project" />
+    <orderEntry type="library" name="org.antlr.antlr-runtime" level="project" />
+    <orderEntry type="library" name="org.antlr.antlr4-runtime" level="project" />
+    <orderEntry type="library" name="org.sireum.automaton" level="project" />
+    <orderEntry type="library" name="org.sireum.presentasi-jfx" level="project" />
+    <orderEntry type="library" name="org.scalameta.scalafmt-cli_2.13" level="project" />
+    <orderEntry type="library" name="org.apache.commons.commons-compress" level="project" />
+    <orderEntry type="library" name="it.unimi.dsi.fastutil-core" level="project" />
+    <orderEntry type="library" name="net.java.dev.jna.jna" level="project" />
+    <orderEntry type="library" name="com.lihaoyi.geny_2.13" level="project" />
+    <orderEntry type="library" name="org.apache.commons.commons-lang3" level="project" />
+    <orderEntry type="library" name="com.fasterxml.jackson.core.jackson-databind" level="project" />
+    <orderEntry type="library" name="commons-io.commons-io" level="project" />
+    <orderEntry type="library" name="org.scalameta.scalafmt-core_2.13" level="project" />
+    <orderEntry type="library" name="org.scalameta.scalafmt-interfaces" level="project" />
+    <orderEntry type="library" name="org.scalameta.scalafmt-dynamic_2.13" level="project" />
+    <orderEntry type="library" name="org.scalameta.svm-subs" level="project" />
+    <orderEntry type="library" name="org.scalameta.munit-diff_2.13" level="project" />
+    <orderEntry type="library" name="com.martiansoftware.nailgun-server" level="project" />
+    <orderEntry type="library" name="com.github.scopt.scopt_2.13" level="project" />
+    <orderEntry type="library" name="commons-codec.commons-codec" level="project" />
+    <orderEntry type="library" name="com.fasterxml.jackson.core.jackson-annotations" level="project" />
+    <orderEntry type="library" name="com.fasterxml.jackson.core.jackson-core" level="project" />
+    <orderEntry type="library" name="org.scalameta.scalafmt-sysops_2.13" level="project" />
+    <orderEntry type="library" name="org.scalameta.scalafmt-config_2.13" level="project" />
+    <orderEntry type="library" name="org.scalameta.scalafmt-macros_2.13" level="project" />
+    <orderEntry type="library" name="org.scalameta.mdoc-parser_2.13" level="project" />
+    <orderEntry type="library" name="io.get-coursier.interface" level="project" />
+    <orderEntry type="library" name="com.typesafe.config" level="project" />
+    <orderEntry type="library" name="org.scalameta.metaconfig-core_2.13" level="project" />
+    <orderEntry type="library" name="org.scalameta.metaconfig-typesafe-config_2.13" level="project" />
+    <orderEntry type="library" name="org.scalameta.scalameta_2.13" level="project" />
+    <orderEntry type="library" name="org.slf4j.slf4j-api" level="project" />
+    <orderEntry type="library" name="org.scalameta.metaconfig-pprint_2.13" level="project" />
+    <orderEntry type="library" name="org.typelevel.paiges-core_2.13" level="project" />
+    <orderEntry type="library" name="org.scala-lang.modules.scala-collection-compat_2.13" level="project" />
+    <orderEntry type="library" name="org.scalameta.parsers_2.13" level="project" />
+    <orderEntry type="library" name="com.lihaoyi.fansi_2.13" level="project" />
+    <orderEntry type="library" name="org.scalameta.trees_2.13" level="project" />
+    <orderEntry type="library" name="io.github.java-diff-utils.java-diff-utils" level="project" />
+    <orderEntry type="library" name="org.jline.jline" level="project" />
+    <orderEntry type="library" name="com.lihaoyi.sourcecode_2.13" level="project" />
+    <orderEntry type="library" name="org.scalameta.common_2.13" level="project" />
+    <orderEntry type="library" name="org.scalameta.io_2.13" level="project" />
+    <orderEntry type="library" name="org.sireum.kekinian.test_2.13" level="project" />
+    <orderEntry type="library" name="org.scala-lang.modules.scala-parallel-collections_2.13" level="project" />
+    <orderEntry type="library" name="org.sireum.kekinian.macros_2.13" level="project" />
+    <orderEntry type="library" name="org.scalatest.scalatest_2.13" level="project" />
+    <orderEntry type="library" name="org.scalatest.scalatest-core_2.13" level="project" />
+    <orderEntry type="library" name="org.scalatest.scalatest-featurespec_2.13" level="project" />
+    <orderEntry type="library" name="org.scalatest.scalatest-flatspec_2.13" level="project" />
+    <orderEntry type="library" name="org.scalatest.scalatest-freespec_2.13" level="project" />
+    <orderEntry type="library" name="org.scalatest.scalatest-funsuite_2.13" level="project" />
+    <orderEntry type="library" name="org.scalatest.scalatest-funspec_2.13" level="project" />
+    <orderEntry type="library" name="org.scalatest.scalatest-propspec_2.13" level="project" />
+    <orderEntry type="library" name="org.scalatest.scalatest-refspec_2.13" level="project" />
+    <orderEntry type="library" name="org.scalatest.scalatest-wordspec_2.13" level="project" />
+    <orderEntry type="library" name="org.scalatest.scalatest-diagrams_2.13" level="project" />
+    <orderEntry type="library" name="org.scalatest.scalatest-matchers-core_2.13" level="project" />
+    <orderEntry type="library" name="org.scalatest.scalatest-shouldmatchers_2.13" level="project" />
+    <orderEntry type="library" name="org.scalatest.scalatest-mustmatchers_2.13" level="project" />
+    <orderEntry type="library" name="org.scalatest.scalatest-compatible" level="project" />
+    <orderEntry type="library" name="org.scalactic.scalactic_2.13" level="project" />
+    <orderEntry type="library" name="org.scala-lang.modules.scala-xml_2.13" level="project" />
+    <orderEntry type="library" name="org.jline.jline" level="project" />
+    <orderEntry type="library" name="org.scala-lang.modules.scala-java8-compat_2.13" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="org.scalatest.scalatest_2.13" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="org.scalatest.scalatest-core_2.13" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="org.scalatest.scalatest-featurespec_2.13" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="org.scalatest.scalatest-flatspec_2.13" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="org.scalatest.scalatest-freespec_2.13" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="org.scalatest.scalatest-funsuite_2.13" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="org.scalatest.scalatest-funspec_2.13" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="org.scalatest.scalatest-propspec_2.13" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="org.scalatest.scalatest-refspec_2.13" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="org.scalatest.scalatest-wordspec_2.13" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="org.scalatest.scalatest-diagrams_2.13" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="org.scalatest.scalatest-matchers-core_2.13" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="org.scalatest.scalatest-shouldmatchers_2.13" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="org.scalatest.scalatest-mustmatchers_2.13" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="org.scalatest.scalatest-compatible" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="org.scalactic.scalactic_2.13" level="project" />
+    <orderEntry type="library" exported="" scope="TEST" name="org.scala-lang.modules.scala-xml_2.13" level="project" />
+    <orderEntry type="library" name="Scala" level="project" />
+    <orderEntry type="inheritedJdk" />
+  </component>
+</module>

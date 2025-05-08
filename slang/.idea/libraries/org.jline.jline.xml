@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="org.jline.jline">
+    <CLASSES>
+      <root url="jar:///home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/org/jline/jline/3.27.1/jline-3.27.1-jdk8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/org/jline/jline/3.27.1/jline-3.27.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/org/jline/jline/3.27.1/jline-3.27.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

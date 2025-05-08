@@ -1,0 +1,198 @@
+{
+  "mill.contrib.bloop.BloopImpl.install": {
+    "isolette_single_sensor_Instance.bloop.writeConfigFile": {
+      "isolette_single_sensor_Instance.mainClass": {},
+      "isolette_single_sensor_Instance.mandatoryJavacOptions": {},
+      "isolette_single_sensor_Instance.compileResources": {},
+      "isolette_single_sensor_Instance.resolvedRunIvyDeps": {},
+      "isolette_single_sensor_Instance.localCompileClasspath": {},
+      "isolette_single_sensor_Instance.scalaOrganization": {},
+      "isolette_single_sensor_Instance.resolvedIvyDeps": {
+        "isolette_single_sensor_Instance.platformSuffix": {},
+        "isolette_single_sensor_Instance.artifactTypes": {}
+      },
+      "isolette_single_sensor_Instance.scalaVersion": {},
+      "isolette_single_sensor_Instance.scalaCompilerClasspath": {
+        "isolette_single_sensor_Instance.scalaLibraryIvyDeps": {}
+      },
+      "isolette_single_sensor_Instance.resources": {},
+      "isolette_single_sensor_Instance.allScalacOptions": {
+        "isolette_single_sensor_Instance.mandatoryScalacOptions": {},
+        "isolette_single_sensor_Instance.scalacOptions": {},
+        "isolette_single_sensor_Instance.enablePluginScalacOptions.super.ScalaModule": {
+          "isolette_single_sensor_Instance.scalacPluginIvyDeps": {}
+        }
+      },
+      "mill.contrib.bloop.BloopImpl.moduleSourceMap": {
+        "allSources": {
+          "sources": {
+            "sources.super.JavaModule": {}
+          },
+          "generatedSources": {
+            "generateScriptSources": {}
+          }
+        },
+        "isolette_single_sensor_Instance.allSources": {
+          "isolette_single_sensor_Instance.sources": {},
+          "isolette_single_sensor_Instance.generatedSources": {}
+        },
+        "slang.allSources": {
+          "slang.sources": {},
+          "slang.generatedSources": {}
+        },
+        "isolette_single_sensor_Instance.tests.allSources": {
+          "isolette_single_sensor_Instance.tests.sources": {},
+          "isolette_single_sensor_Instance.tests.generatedSources": {}
+        }
+      },
+      "isolette_single_sensor_Instance.transitiveCoursierProjects": {
+        "isolette_single_sensor_Instance.depManagement": {},
+        "isolette_single_sensor_Instance.mandatoryIvyDeps": {
+          "isolette_single_sensor_Instance.mandatoryIvyDeps.super.JavaModule": {}
+        },
+        "isolette_single_sensor_Instance.runIvyDeps": {},
+        "isolette_single_sensor_Instance.ivyDeps": {},
+        "isolette_single_sensor_Instance.bomIvyDeps": {},
+        "isolette_single_sensor_Instance.compileIvyDeps": {}
+      },
+      "isolette_single_sensor_Instance.unmanagedClasspath": {},
+      "isolette_single_sensor_Instance.forkArgs": {
+        "isolette_single_sensor_Instance.forkArgs.super.RunModule": {}
+      },
+      "isolette_single_sensor_Instance.javacOptions": {}
+    },
+    "slang.bloop.writeConfigFile": {
+      "slang.forkArgs": {
+        "slang.forkArgs.super.RunModule": {}
+      },
+      "slang.compileResources": {},
+      "slang.resources": {},
+      "slang.scalaCompilerClasspath": {
+        "slang.scalaLibraryIvyDeps": {}
+      },
+      "slang.scalaVersion": {},
+      "slang.resolvedRunIvyDeps": {},
+      "slang.localCompileClasspath": {},
+      "slang.unmanagedClasspath": {},
+      "slang.javacOptions": {},
+      "slang.mandatoryJavacOptions": {},
+      "slang.resolvedIvyDeps": {
+        "slang.platformSuffix": {},
+        "slang.artifactTypes": {}
+      },
+      "slang.transitiveCoursierProjects": {
+        "slang.ivyDeps": {},
+        "slang.mandatoryIvyDeps": {
+          "slang.mandatoryIvyDeps.super.JavaModule": {}
+        },
+        "slang.compileIvyDeps": {},
+        "slang.depManagement": {},
+        "slang.bomIvyDeps": {},
+        "slang.runIvyDeps": {}
+      },
+      "slang.allScalacOptions": {
+        "slang.mandatoryScalacOptions": {},
+        "slang.scalacOptions": {},
+        "slang.enablePluginScalacOptions.super.ScalaModule": {
+          "slang.scalacPluginIvyDeps": {}
+        }
+      },
+      "slang.scalaOrganization": {},
+      "slang.mainClass": {}
+    },
+    "isolette_single_sensor_Instance.tests.bloop.writeConfigFile": {
+      "isolette_single_sensor_Instance.tests.mandatoryJavacOptions": {},
+      "isolette_single_sensor_Instance.tests.allScalacOptions": {
+        "isolette_single_sensor_Instance.tests.mandatoryScalacOptions": {
+          "isolette_single_sensor_Instance.tests.mandatoryScalacOptions.super.ScalaModule": {}
+        },
+        "isolette_single_sensor_Instance.tests.enablePluginScalacOptions.super.ScalaModule": {
+          "isolette_single_sensor_Instance.tests.scalacPluginIvyDeps": {}
+        },
+        "isolette_single_sensor_Instance.tests.scalacOptions": {}
+      },
+      "isolette_single_sensor_Instance.tests.resources": {},
+      "isolette_single_sensor_Instance.tests.testFramework": {},
+      "isolette_single_sensor_Instance.tests.localCompileClasspath": {
+        "isolette_single_sensor_Instance.tests.unmanagedClasspath": {}
+      },
+      "isolette_single_sensor_Instance.tests.forkArgs": {
+        "isolette_single_sensor_Instance.tests.forkArgs.super.RunModule": {}
+      },
+      "isolette_single_sensor_Instance.tests.scalaCompilerClasspath": {
+        "isolette_single_sensor_Instance.tests.scalaLibraryIvyDeps": {}
+      },
+      "isolette_single_sensor_Instance.tests.resolvedIvyDeps": {
+        "isolette_single_sensor_Instance.tests.platformSuffix": {},
+        "isolette_single_sensor_Instance.tests.artifactTypes": {}
+      },
+      "isolette_single_sensor_Instance.tests.mainClass": {},
+      "isolette_single_sensor_Instance.tests.scalaOrganization": {},
+      "isolette_single_sensor_Instance.tests.compileResources": {},
+      "isolette_single_sensor_Instance.tests.scalaVersion": {},
+      "isolette_single_sensor_Instance.tests.javacOptions": {},
+      "isolette_single_sensor_Instance.tests.transitiveCoursierProjects": {
+        "isolette_single_sensor_Instance.tests.compileIvyDeps": {},
+        "isolette_single_sensor_Instance.tests.ivyDeps": {},
+        "isolette_single_sensor_Instance.tests.bomIvyDeps": {},
+        "isolette_single_sensor_Instance.tests.mandatoryIvyDeps": {
+          "isolette_single_sensor_Instance.tests.mandatoryIvyDeps.super.JavaModule": {}
+        },
+        "isolette_single_sensor_Instance.tests.depManagement": {},
+        "isolette_single_sensor_Instance.tests.runIvyDeps": {}
+      }
+    },
+    "MillBuildRootModule.bloop.writeConfigFile": {
+      "scalaVersion": {},
+      "localCompileClasspath": {},
+      "mainClass": {},
+      "forkArgs": {
+        "forkArgs.super.RunModule": {}
+      },
+      "resources": {
+        "resources.super.JavaModule": {}
+      },
+      "javacOptions": {},
+      "compileResources": {},
+      "parseBuildFiles": {
+        "scriptSources": {}
+      },
+      "resolvedIvyDeps": {
+        "artifactTypes": {}
+      },
+      "transitiveCoursierProjects": {
+        "mandatoryIvyDeps": {
+          "mandatoryIvyDeps.super.JavaModule": {}
+        },
+        "ivyDeps": {},
+        "bomIvyDeps": {},
+        "depManagement": {},
+        "compileIvyDeps": {},
+        "runIvyDeps": {
+          "cliImports": {}
+        }
+      },
+      "scalaOrganization": {},
+      "allScalacOptions": {
+        "mandatoryScalacOptions": {},
+        "scalacOptions": {
+          "scalacOptions.super.ScalaModule": {}
+        },
+        "enablePluginScalacOptions.super.ScalaModule": {
+          "scalacPluginIvyDeps": {}
+        }
+      },
+      "platformSuffix": {},
+      "mandatoryJavacOptions": {},
+      "resolvedRunIvyDeps": {},
+      "scalaCompilerClasspath": {
+        "scalaLibraryIvyDeps": {}
+      },
+      "unmanagedClasspath": {
+        "enclosingClasspath": {},
+        "lineNumberPluginClasspath": {}
+      },
+      "resolveDepsExclusions": {}
+    }
+  }
+}

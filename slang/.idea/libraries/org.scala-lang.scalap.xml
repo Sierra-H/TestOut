@@ -1,0 +1,7 @@
+<component name="libraryTable">
+  <library name="org.scala-lang.scalap">
+    <CLASSES>
+      <root url="jar:///home/sashamane/Development/sireum/kekinian/bin/scala/lib/scalap-2.13.16.jar!/" />
+    </CLASSES>
+  </library>
+</component>

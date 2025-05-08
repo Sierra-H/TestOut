@@ -1,0 +1,104 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "slang",
+        "directory": "/home/sashamane/Development/test-out/slang",
+        "workspaceDir": "/home/sashamane/Development/test-out/slang",
+        "sources": [
+            "/home/sashamane/Development/test-out/slang/bin"
+        ],
+        "dependencies": [
+            
+        ],
+        "classpath": [
+            "/home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar",
+            "/home/sashamane/Development/test-out/slang/compile-resources",
+            "/home/sashamane/Development/sireum/kekinian/bin/sireum.jar"
+        ],
+        "out": "/home/sashamane/Development/test-out/slang/.bloop/out/slang",
+        "classesDir": "/home/sashamane/Development/test-out/slang/.bloop/out/slang/classes",
+        "resources": [
+            "/home/sashamane/Development/test-out/slang/compile-resources"
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "2.13.16",
+            "options": [
+                "-Xplugin:/home/sashamane/Development/sireum/kekinian/lib/cache/https/jitpack.io/org/sireum/scalac-plugin_2.13/4.20250312.bf55c08/scalac-plugin_2.13-4.20250312.bf55c08.jar",
+                "-release",
+                "17",
+                "-deprecation",
+                "-Yrangepos",
+                "-Ydelambdafy:method",
+                "-feature",
+                "-unchecked",
+                "-language:postfixOps"
+            ],
+            "jars": [
+                "/home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.16/scala-compiler-2.13.16.jar",
+                "/home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.16/scala-reflect-2.13.16.jar",
+                "/home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar",
+                "/home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/io/github/java-diff-utils/java-diff-utils/4.15/java-diff-utils-4.15.jar",
+                "/home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/org/jline/jline/3.27.1/jline-3.27.1-jdk8.jar"
+            ]
+        },
+        "java": {
+            "options": [
+                "-source",
+                "17",
+                "-target",
+                "17",
+                "-encoding",
+                "utf8",
+                "-XDignore.symbol.file",
+                "-Xlint:-options",
+                "-Xlint:deprecation",
+                "-proc:none"
+            ]
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "/home/sashamane/Development/sireum/kekinian/bin/linux/java",
+                "options": [
+                    "-Duser.dir=/home/sashamane/Development/test-out/slang"
+                ]
+            },
+            "mainClass": [
+                
+            ],
+            "classpath": [
+                "/home/sashamane/Development/test-out/slang/.bloop/out/slang/classes",
+                "/home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar",
+                "/home/sashamane/Development/sireum/kekinian/bin/sireum.jar"
+            ],
+            "resources": [
+                "/home/sashamane/Development/test-out/slang/compile-resources"
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.13.16",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "/home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "/home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.16/scala-library-2.13.16-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "library"
+        ]
+    }
+}

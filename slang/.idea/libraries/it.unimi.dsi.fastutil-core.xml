@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="it.unimi.dsi.fastutil-core">
+    <CLASSES>
+      <root url="jar:///home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/it/unimi/dsi/fastutil-core/8.5.15/fastutil-core-8.5.15.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar:///home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/it/unimi/dsi/fastutil-core/8.5.15/fastutil-core-8.5.15-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar:///home/sashamane/Development/sireum/kekinian/lib/cache/https/repo1.maven.org/maven2/it/unimi/dsi/fastutil-core/8.5.15/fastutil-core-8.5.15-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
