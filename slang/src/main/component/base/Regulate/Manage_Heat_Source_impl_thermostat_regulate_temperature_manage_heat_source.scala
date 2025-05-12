@@ -1,4 +1,5 @@
 // #Sireum #Logika
+//@Logika: --par --par-branch --par-branch-pred-num 3 --par-branch-pred-complexity 16 --background save
 
 package base.Regulate
 
@@ -32,7 +33,7 @@ object Manage_Heat_Source_impl_thermostat_regulate_temperature_manage_heat_sourc
     api.logDebug("Example debug logging")
     api.logError("Example error logging")
 
-    api.put_heat_control(Isolette_Data_Model.On_Off.byOrdinal(0).get)
+    api.put_heat_control(Isolette_Data_Model.On_Off.Off)
   }
 
   def timeTriggered(api: Manage_Heat_Source_impl_Operational_Api): Unit = {
@@ -44,7 +45,7 @@ object Manage_Heat_Source_impl_thermostat_regulate_temperature_manage_heat_sourc
         // END COMPUTE REQUIRES timeTriggered
       ),
       Ensures(
-      /*
+
         // BEGIN COMPUTE ENSURES timeTriggered
         // guarantee lastCmd
         //   Set lastCmd to value of output Cmd port
@@ -79,7 +80,7 @@ object Manage_Heat_Source_impl_thermostat_regulate_temperature_manage_heat_sourc
         // guarantee mhs_compute_gumbotable
         //   (2,2)
         ((api.current_tempWstatus.value > api.upper_desired_temp.value) & (api.regulator_mode == Isolette_Data_Model.Regulator_Mode.Failed_Regulator_Mode)) -->: (api.heat_control == Isolette_Data_Model.On_Off.Off),
-*/
+
          (api.regulator_mode == Isolette_Data_Model.Regulator_Mode.Normal_Regulator_Mode &
            api.current_tempWstatus.value < api.lower_desired_temp.value) -->: (api.heat_control == Isolette_Data_Model.On_Off.Onn),
         // END COMPUTE ENSURES timeTriggered
